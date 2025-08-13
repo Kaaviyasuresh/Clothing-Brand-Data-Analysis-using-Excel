@@ -1,4 +1,5 @@
 Clothing Brand Sales Analysis Dashboard – Excel Project
+
 📌 Project Overview
 This project analyzes sales data from a clothing brand using a dataset sourced from Kaggle.
 The goal was to clean, process, and visualize the data to uncover key business insights and create an interactive Excel dashboard for decision-making.
@@ -82,5 +83,5 @@ User-Friendly Layout – Designed for quick interpretation by non-technical user
 
 
 
-Dashboard design principles
+
 
